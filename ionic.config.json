@@ -1,0 +1,7 @@
+{
+  "name": "sport_app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
